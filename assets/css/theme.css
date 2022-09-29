@@ -19646,6 +19646,18 @@ iframe {
   border-bottom-color: #DF6951;
 }
 
+#contact{
+  margin-top: 200px!important;
+  background-color: #f8f8f8;
+}
+
+.copyright{
+  background-color: #f8f8f8;
+}
+
+#licence{
+  margin-top: 100px;
+}
 /*-----------------------------------------------
 |   User Styles
 -----------------------------------------------*/
