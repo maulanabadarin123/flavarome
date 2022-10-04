@@ -19560,7 +19560,7 @@ iframe {
   border: none;
 }
 
-.card.service-card:before {
+/* .card.service-card:before {
   content: '';
   position: absolute;
   left: 0.625rem;
@@ -19573,7 +19573,7 @@ iframe {
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-}
+} */
 
 @media (max-width: 767.98px) {
   .card.service-card:before {
